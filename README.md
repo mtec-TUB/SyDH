@@ -1,6 +1,6 @@
 # SyDH: Audiovisual Speech with Audio-Driven Digital Humans
 
-
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc] [![Dataset](https://img.shields.io/badge/Dataset-Link-purple)](https://drive.google.com/drive/folders/1U9x6VeasgjxSuuKcCgY6K8CVy9EKEt80?usp=sharing)
 
 ## Dataset
 You can download the full dataset here: [TUB Cloud](https://tubcloud.tu-berlin.de/s/emDpef9ir6WKdgF)
@@ -20,3 +20,13 @@ All video clips of the SyDH corpus can be reproduced and optionally modified usi
 2. Download the [SyDH-Assets.zip](https://tubcloud.tu-berlin.de/s/LaLmZqPngZFBJj5) which contains Assets for SyDH.
 3. Unzip SyDH-Assets.zip and copy the files of the Assets folder into the Assets folder of this repo.
 4. Add this repository folder to the Unity Hub ("Add" -> "Add project from disk") and start this.
+
+## Licence
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
