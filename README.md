@@ -4,7 +4,7 @@
   
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc] [![Dataset](https://img.shields.io/badge/Link-Dataset-purple)](https://tubcloud.tu-berlin.de/s/emDpef9ir6WKdgF) [![Dataset](https://img.shields.io/badge/Unity-2020.3+-black.svg)](https://tubcloud.tu-berlin.de/s/emDpef9ir6WKdgF)
   
-<img alt="Header with talkin heads" src="Readme_Figs/header.gif"> </img>
+<img alt="Header with talkin heads" src="Readme_Figs/header14x4.gif"> </img>
 
 </div>
 
