@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc] [![Dataset](https://img.shields.io/badge/Link-Dataset-purple)](https://kaggle.com/datasets/cdcc7c9b236d8cac723625e5a161ccf450c89621c614a73783c5d025806476b9) [![Unity](https://img.shields.io/badge/Unity-2020.3+-black.svg)](https://unity.com/releases/editor/whats-new/2020.3.48f1#installs)
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc] [![Dataset](https://img.shields.io/badge/Link-Dataset-purple)](https://tubcloud.tu-berlin.de/s/4NikeRcsfTC8XXW/download) [![Unity](https://img.shields.io/badge/Unity-2020.3+-black.svg)](https://unity.com/releases/editor/whats-new/2020.3.48f1#installs)
   
 <img alt="Header with talkin heads" src="Readme_Figs/header14x4.gif"> </img>
 
@@ -28,7 +28,9 @@ The dataset addresses the growing need for controlled, reproducible research on 
 
 
 ### 📢 Dataset Release
-You can download the full dataset here: [Kaggle](https://kaggle.com/datasets/cdcc7c9b236d8cac723625e5a161ccf450c89621c614a73783c5d025806476b9)
+You can download the full dataset here: 
+- [Direct Download](https://tubcloud.tu-berlin.de/s/4NikeRcsfTC8XXW/download)
+- [(Privately shared) Kaggle Repository](https://kaggle.com/datasets/cdcc7c9b236d8cac723625e5a161ccf450c89621c614a73783c5d025806476b9)
 
 ---
 
