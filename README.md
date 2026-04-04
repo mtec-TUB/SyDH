@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc] [![Dataset](https://img.shields.io/badge/Link-Dataset-purple)](https://tubcloud.tu-berlin.de/s/emDpef9ir6WKdgF) [![Dataset](https://img.shields.io/badge/Unity-2020.3+-black.svg)](https://tubcloud.tu-berlin.de/s/emDpef9ir6WKdgF)
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc] [![Dataset](https://img.shields.io/badge/Link-Dataset-purple)](https://kaggle.com/datasets/cdcc7c9b236d8cac723625e5a161ccf450c89621c614a73783c5d025806476b9) [![Unity](https://img.shields.io/badge/Unity-2020.3+-black.svg)](https://unity.com/releases/editor/whats-new/2020.3.48f1#installs)
   
 <img alt="Header with talkin heads" src="Readme_Figs/header14x4.gif"> </img>
 
@@ -28,7 +28,7 @@ The dataset addresses the growing need for controlled, reproducible research on 
 
 
 ### 📢 Dataset Release
-You can download the full dataset here: [TUB Cloud](https://tubcloud.tu-berlin.de/s/emDpef9ir6WKdgF)
+You can download the full dataset here: [Kaggle](https://kaggle.com/datasets/cdcc7c9b236d8cac723625e5a161ccf450c89621c614a73783c5d025806476b9)
 
 ---
 
@@ -37,7 +37,7 @@ You can download the full dataset here: [TUB Cloud](https://tubcloud.tu-berlin.d
 All video clips of the SyDH corpus can be reproduced and optionally modified using this Unity project.
 
 ### Prerequisites
-- **Unity**: The project was developed using Unity 2020.3.48f1. Make sure you to use this or a compatible version.
+- **Unity**: The project was developed using [Unity 2020.3.48f1](https://unity.com/releases/editor/whats-new/2020.3.48f1#installs). Make sure you to use this or a compatible version.
 - **Dependencies**:  
   - The **CC/iC Unity Tools package** is required for importing the characters. [Version 1.6.3 for HDRP](https://github.com/soupday/cc_unity_tools_HDRP/releases/) was used in this project and installed using these [instructions](https://soupday.github.io/cc_unity_tools/installation.html). The releases for URP and 3D pipelines can also be installed instead and the [newer versions](https://github.com/soupday/CCiC-Unity-Tools) might work as well.
 
