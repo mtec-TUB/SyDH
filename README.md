@@ -48,7 +48,7 @@ The SyDH corpus includes controlled variations of visual parameters relevant to 
 | <div><video controls src="https://github.com/user-attachments/assets/bc6209e1-04f0-4d41-91ae-4ae839664d51"></video></div> | <div><video controls src="https://github.com/user-attachments/assets/ba34cd7f-7af5-4251-8184-9a688a850ee5"></video></div> |
 | Higher values enforce stronger facial symmetry during animation. 0.0 represents original asymmetry and 1.0 leads to perfectly symmetrical movements. (Default: 0) | Higher values produce smoother facial motion with reduced temporal jitter. (Default: 0) |
 
-These examples highlight the fine-grained controllability of SyDH and support systematic investigation of how visual rendering and animation parameters influence the perception and effectiveness of audio-driven digital humans.
+These examples highlight the controllability of SyDH and support systematic investigation of how environment and animation factors influence the perception and effectiveness of audio-driven digital humans.
 
 ---
 
