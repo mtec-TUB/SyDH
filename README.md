@@ -40,12 +40,12 @@ The SyDH corpus includes controlled variations of visual parameters relevant to 
 
 | Lighting | Expressiveness |
 |---|---|
-| <div><video controls src="https://github.com/user-attachments/assets/4e9190a1-13cd-4d1d-8b88-b599a04a65db"></video></div> | <div><video controls src="https://github.com/user-attachments/assets/fc26c904-65c0-4375-adf8-c6805555b791"></video></div> |
+| <div><video controls src="https://github.com/user-attachments/assets/4e9190a1-13cd-4d1d-8b88-b599a04a65db"></video></div> | <div><video controls src="https://github.com/user-attachments/assets/6df2f2a0-f3fd-4ef2-9a78-1f52b0cf396c"></video></div> |
 | Illumination variations across otherwise identical talking-head sequences. | Higher values increase the intensity of facial motion and articulation. (Default: 1) |
 
 | Symmetry | Temporal smoothing |
 |---|---|
-| <div><video controls src="https://github.com/user-attachments/assets/bc6209e1-04f0-4d41-91ae-4ae839664d51"></video></div> | <div><video controls src="https://github.com/user-attachments/assets/ba34cd7f-7af5-4251-8184-9a688a850ee5"></video></div> |
+| <div><video controls src="https://github.com/user-attachments/assets/f30c1f98-39a3-4caf-95ad-2f4adb84ea1b"></video></div> | <div><video controls src="https://github.com/user-attachments/assets/4b3892e3-f450-4ad0-8630-9ae5ecbe981d"></video></div> |
 | Higher values enforce stronger facial symmetry during animation. 0.0 represents original asymmetry and 1.0 leads to perfectly symmetrical movements. (Default: 0) | Higher values produce smoother facial motion with reduced temporal jitter. (Default: 0) |
 
 These examples highlight the controllability of SyDH and support systematic investigation of how environment and animation factors influence the perception and effectiveness of audio-driven digital humans.
@@ -75,4 +75,3 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
 [cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
-
