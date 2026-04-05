@@ -8,7 +8,7 @@
 
 </div>
 
-A large-scale dataset with 27,200 video clips of audio-driven digital human talking heads for speech perception research
+A large-scale dataset with 27,200 video clips of audio-driven digital human talking heads for speech perception research. This repository includes (1) the link to the dataset and (2) the Unity project for full reproducibility. 
 
 ## 🌟 About SyDH
 
