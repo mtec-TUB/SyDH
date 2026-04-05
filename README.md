@@ -8,7 +8,7 @@
 
 </div>
 
-A large-scale dataset with 27,200 video clips of audio-driven digital human talking heads for speech perception research
+A large-scale dataset with 27,200 video clips of audio-driven digital human talking heads for speech perception research. This repository includes (1) the link to the dataset and (2) the Unity project for full reproducibility. 
 
 ## 🌟 About SyDH
 
@@ -31,6 +31,24 @@ The dataset addresses the growing need for controlled, reproducible research on 
 You can download the full dataset here: 
 - [Direct Download](https://tubcloud.tu-berlin.de/s/4NikeRcsfTC8XXW/download)
 - [(Privately shared) Kaggle Repository](https://kaggle.com/datasets/cdcc7c9b236d8cac723625e5a161ccf450c89621c614a73783c5d025806476b9)
+
+---
+
+## Qualitative Parameter Comparisons
+
+The SyDH corpus includes controlled variations of visual parameters relevant to the perception of the talking virtual humans. The examples below illustrate how lighting and animation post-processing parameters affect the appearance and motion of audio-driven digital humans.
+
+| Lighting | Expressiveness |
+|---|---|
+| <div><video controls src="https://github.com/user-attachments/assets/4e9190a1-13cd-4d1d-8b88-b599a04a65db"></video></div> | <div><video controls src="https://github.com/user-attachments/assets/6df2f2a0-f3fd-4ef2-9a78-1f52b0cf396c"></video></div> |
+| Illumination variations across otherwise identical talking-head sequences. | Higher values increase the intensity of facial motion and articulation. (Default: 1) |
+
+| Symmetry | Temporal smoothing |
+|---|---|
+| <div><video controls src="https://github.com/user-attachments/assets/f30c1f98-39a3-4caf-95ad-2f4adb84ea1b"></video></div> | <div><video controls src="https://github.com/user-attachments/assets/4b3892e3-f450-4ad0-8630-9ae5ecbe981d"></video></div> |
+| Higher values enforce stronger facial symmetry during animation. 0.0 represents original asymmetry and 1.0 leads to perfectly symmetrical movements. (Default: 0) | Higher values produce smoother facial motion with reduced temporal jitter. (Default: 0) |
+
+These examples highlight the controllability of SyDH and support systematic investigation of how environment and animation factors influence the perception and effectiveness of audio-driven digital humans.
 
 ---
 
