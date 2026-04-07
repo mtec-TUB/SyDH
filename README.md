@@ -32,9 +32,7 @@ You can download the full dataset here:
 - [Direct Download](https://tubcloud.tu-berlin.de/s/4NikeRcsfTC8XXW/download)
 - [Kaggle](https://kaggle.com/datasets/cdcc7c9b236d8cac723625e5a161ccf450c89621c614a73783c5d025806476b9)
 
----
-
-## Qualitative Parameter Comparisons
+### Qualitative Parameter Comparisons
 
 The SyDH corpus includes controlled variations of visual parameters relevant to the perception of the talking virtual humans. The examples below illustrate how lighting and animation post-processing parameters affect the appearance and motion of audio-driven digital humans.
 
@@ -49,6 +47,45 @@ The SyDH corpus includes controlled variations of visual parameters relevant to 
 | Higher values enforce stronger facial symmetry during animation. `0.0` represents original asymmetry and `1.0` leads to perfectly symmetrical movements. (Default: `0`) | Higher values produce smoother facial motion with reduced temporal jitter. (Default: `0`) |
 
 These examples highlight the controllability of SyDH and support systematic investigation of how environment and animation factors influence the perception and effectiveness of audio-driven digital humans.
+
+### 📁 Dataset Structure
+The SyDH corpus is designed for easy cross-comparison across parameter configurations. All ablation variants share identical filenames, enabling direct frame-by-frame or video-level comparison.
+
+```
+SyDH-corpus/
+├── SyDH-ablation/
+│   ├── metadata.csv                    # One metadata file for ALL ablation variants
+│   │                                   # Columns: filename, speaker, sentence
+│   │                                   # Example: "pbih8s.mp4, s4, place blue in h eight soon"
+│   ├── ablation-expressiveness/
+│   │   ├── expressiveness_0.00/        # 1,200 videos (same filenames as below)
+│   │   ├── expressiveness_0.25/        # 1,200 videos
+│   │   ├── expressiveness_0.50/        # 1,200 videos
+│   │   ├── ...        
+│   │   ├── expressiveness_1.75/        # 1,200 videos
+│   │   └── expressiveness_2.00/        # 1,200 videos
+│   ├── ablation-lighting/
+│   │   ├── shady/                      # 1,200 videos
+│   │   ├── neon/                       # 1,200 videos
+│   │   ├── sunny/                      # 1,200 videos
+│   │   └── well-illuminated/           # 1,200 videos
+│   ├── ablation-smoothing/
+│   │   ├── smoothing_0.00/             # 1,200 videos
+│   │   ├── smoothing_0.30/             # 1,200 videos
+│   │   ├── smoothing_0.60/             # 1,200 videos
+│   │   └── smoothing_0.90/             # 1,200 videos
+│   └── ablation-symmetry/
+│       ├── symmetry_0/                 # 1,200 videos (original asymmetry)
+│       └── symmetry_1/                 # 1,200 videos (perfect symmetry)
+│
+└── SyDH-main/
+    ├── metadata.csv                    # Columns: filename, speaker, sentence
+    │                                   # Example: "bbab8n.mp4, s10, bin blue at b eight now"
+    └── SyDH-main/                      
+        ├── bbab8n.mp4
+        ├── ...
+        └── (8,000 files total)
+```
 
 ---
 
