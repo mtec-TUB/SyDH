@@ -24,7 +24,7 @@ The dataset addresses the growing need for controlled, reproducible research on 
 - **Digital Humans:** 12 unique 3D characters
 - **Speakers:** 12 (GRID corpus, gender-matched, 6 female, 6 male)
 - **Resolution:** 1920×1080 px at 60 FPS
-- **Parameters Controlled:** Lighting, expressiveness, symmetry, temporal smoothing
+- **Parameter Variations:** Lighting, expressiveness, symmetry, temporal smoothing
 
 
 ### 📢 Dataset Release
