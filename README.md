@@ -30,7 +30,7 @@ The dataset addresses the growing need for controlled, reproducible research on 
 ### 📢 Dataset Release
 You can download the full dataset here: 
 - [Direct Download](https://tubcloud.tu-berlin.de/s/4NikeRcsfTC8XXW/download)
-- [(Privately shared) Kaggle Repository](https://kaggle.com/datasets/cdcc7c9b236d8cac723625e5a161ccf450c89621c614a73783c5d025806476b9)
+- [Kaggle](https://kaggle.com/datasets/cdcc7c9b236d8cac723625e5a161ccf450c89621c614a73783c5d025806476b9)
 
 ---
 
