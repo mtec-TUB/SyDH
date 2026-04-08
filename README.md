@@ -1,6 +1,11 @@
-# SyDH: An Audiovisual Speech Corpus of Audio-Driven Digital Humans
 
 <div align="center">
+  
+<h1>SyDH: An Audiovisual Speech Corpus of Audio-Driven Digital Humans </h1>
+  
+ [Dinh Nam Pham](https://nphamdinh.github.io)<sup>1</sup> , [Alexander Wißmann](https://www.tu.berlin/en/mtec/about/teamfotos/alexander-wissmann)<sup>1</sup> ,[Dorothea Kolossa](https://www.tu.berlin/en/mtec/about/management-and-administration/dorothea-kolossa/)<sup>1</sup>
+
+ <sup>1</sup> Technical University of Berlin
   
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc] [![Dataset](https://img.shields.io/badge/Link-Dataset-purple)](https://tubcloud.tu-berlin.de/s/4NikeRcsfTC8XXW/download) [![Unity](https://img.shields.io/badge/Unity-2020.3+-black.svg)](https://unity.com/releases/editor/whats-new/2020.3.48f1#installs)
   
