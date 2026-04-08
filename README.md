@@ -61,24 +61,24 @@ SyDH-corpus/
 │   │                                   # Columns: filename, speaker, sentence
 │   │                                   # Example: "pbih8s.mp4, s4, place blue in h eight soon"
 │   ├── ablation-expressiveness/
-│   │   ├── expressiveness_0.00/        # 1,200 videos (same filenames as below)
+│   │   ├── expressiveness_0,00/        # 1,200 videos (same filenames as below)
 │   │   │   ├── bbae7n.mp4
 │   │   │   ├── ...
-│   │   ├── expressiveness_0.25/        # 1,200 videos
-│   │   ├── expressiveness_0.50/        # 1,200 videos
+│   │   ├── expressiveness_0,25/        # 1,200 videos
+│   │   ├── expressiveness_0,50/        # 1,200 videos
 │   │   ├── ...        
-│   │   ├── expressiveness_1.75/        # 1,200 videos
-│   │   └── expressiveness_2.00/        # 1,200 videos
+│   │   ├── expressiveness_1,75/        # 1,200 videos
+│   │   └── expressiveness_2,00/        # 1,200 videos
 │   ├── ablation-lighting/
 │   │   ├── shady/                      # 1,200 videos
 │   │   ├── neon/                       # 1,200 videos
 │   │   ├── sunny/                      # 1,200 videos
 │   │   └── well-illuminated/           # 1,200 videos
 │   ├── ablation-smoothing/
-│   │   ├── smoothing_0.00/             # 1,200 videos
-│   │   ├── smoothing_0.30/             # 1,200 videos
-│   │   ├── smoothing_0.60/             # 1,200 videos
-│   │   └── smoothing_0.90/             # 1,200 videos
+│   │   ├── smoothing_0,00/             # 1,200 videos
+│   │   ├── smoothing_0,30/             # 1,200 videos
+│   │   ├── smoothing_0,60/             # 1,200 videos
+│   │   └── smoothing_0,90/             # 1,200 videos
 │   └── ablation-symmetry/
 │       ├── symmetry_0/                 # 1,200 videos 
 │       └── symmetry_1/                 # 1,200 videos
@@ -87,7 +87,8 @@ SyDH-corpus/
     ├── metadata.csv                    # Columns: filename, speaker, sentence
     │                                   # Example: "bbab8n.mp4, s10, bin blue at b eight now"
     │
-    └── SyDH-main/                      # 8,000 videos, filenames mutually exclusive with those of SyDH-ablation/    
+    └── SyDH-main/                      # 8,000 videos, filenames mutually exclusive with 
+        │                               # those of SyDH-ablation/
         ├── bbab8n.mp4
         ├── ...
 ```
