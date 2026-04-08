@@ -62,6 +62,8 @@ SyDH-corpus/
 │   │                                   # Example: "pbih8s.mp4, s4, place blue in h eight soon"
 │   ├── ablation-expressiveness/
 │   │   ├── expressiveness_0.00/        # 1,200 videos (same filenames as below)
+│   │   │   ├── bbae7n.mp4
+│   │   │   ├── ...
 │   │   ├── expressiveness_0.25/        # 1,200 videos
 │   │   ├── expressiveness_0.50/        # 1,200 videos
 │   │   ├── ...        
@@ -78,16 +80,16 @@ SyDH-corpus/
 │   │   ├── smoothing_0.60/             # 1,200 videos
 │   │   └── smoothing_0.90/             # 1,200 videos
 │   └── ablation-symmetry/
-│       ├── symmetry_0/                 # 1,200 videos (original asymmetry)
-│       └── symmetry_1/                 # 1,200 videos (perfect symmetry)
+│       ├── symmetry_0/                 # 1,200 videos 
+│       └── symmetry_1/                 # 1,200 videos
 │
 └── SyDH-main/
     ├── metadata.csv                    # Columns: filename, speaker, sentence
     │                                   # Example: "bbab8n.mp4, s10, bin blue at b eight now"
-    └── SyDH-main/                      
+    │
+    └── SyDH-main/                      # 8,000 videos, filenames mutually exclusive with those of SyDH-ablation/    
         ├── bbab8n.mp4
         ├── ...
-        └── (8,000 files total)
 ```
 
 ---
