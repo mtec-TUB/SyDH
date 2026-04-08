@@ -7,7 +7,7 @@
   
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc] [![Dataset](https://img.shields.io/badge/Link-Dataset-purple)](https://tubcloud.tu-berlin.de/s/4NikeRcsfTC8XXW/download) [![Unity](https://img.shields.io/badge/Unity-2020.3+-black.svg)](https://unity.com/releases/editor/whats-new/2020.3.48f1#installs)
   
-<img alt="Header with talkin heads" src="Readme_Figs/header14x4.gif"> </img>
+<img alt="Header with talkin heads" src="Readme_Figs/header14x4.jpg"> </img>
 
 </div>
 
